@@ -5,8 +5,16 @@ html, body{
     background-color: rgb(245, 122, 100);
 
 }
+
+.app_heading {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    width:400px;
+}
 .container{
     width:400px;
+    display: flex;
+    justify-content: space-between;
 }
 
 #inputField{
